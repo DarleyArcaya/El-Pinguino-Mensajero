@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(67, 199, 252, 0.795);
+}
+
+div {
+    background-color: rgb(11, 155, 148);
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5cm; 
+    background-repeat: no-repeat;
+}
+p{
+    background-color: aliceblue;
+    
+}
+img{
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2cm; 
+    background-repeat: no-repeat;
+}
